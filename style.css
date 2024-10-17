@@ -1,0 +1,17 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color:antiquewhite;
+    text-align: center;
+}
+
+#shoppingList {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#btn {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}

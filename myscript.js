@@ -27,7 +27,19 @@ btn.onclick = function(){
     }
     
     shoppingList.focus();
+
+    deleteButton.style.cssText = `
+        background-color: black;
+        color: white;
+        border-radius: 10px;
+        padding: 4px;
+    `;
+
+    list.style.cssText = `
+        margin: 10px;
+    `;
 }
+
 
 
 
